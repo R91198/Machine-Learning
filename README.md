@@ -1,2 +1,2 @@
 ## Machine-Learning
-This repo. is about all of my practice work that I've been learned or in the process of learning 'Machine Learning' and it's practical applications.
+This repo. is all about my practical implications that I've learned in 'Machine Learning' and it's algorithms.
